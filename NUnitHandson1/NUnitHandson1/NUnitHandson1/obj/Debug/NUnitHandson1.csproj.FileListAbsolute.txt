@@ -1,0 +1,7 @@
+C:\Users\892876\source\repos\NUnitHandson1\NUnitHandson1\bin\Debug\NUnitHandson1.exe.config
+C:\Users\892876\source\repos\NUnitHandson1\NUnitHandson1\bin\Debug\NUnitHandson1.exe
+C:\Users\892876\source\repos\NUnitHandson1\NUnitHandson1\bin\Debug\NUnitHandson1.pdb
+C:\Users\892876\source\repos\NUnitHandson1\NUnitHandson1\obj\Debug\NUnitHandson1.csprojAssemblyReference.cache
+C:\Users\892876\source\repos\NUnitHandson1\NUnitHandson1\obj\Debug\NUnitHandson1.csproj.CoreCompileInputs.cache
+C:\Users\892876\source\repos\NUnitHandson1\NUnitHandson1\obj\Debug\NUnitHandson1.exe
+C:\Users\892876\source\repos\NUnitHandson1\NUnitHandson1\obj\Debug\NUnitHandson1.pdb

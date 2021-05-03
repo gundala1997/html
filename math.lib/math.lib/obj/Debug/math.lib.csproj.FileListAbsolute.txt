@@ -1,0 +1,6 @@
+C:\Users\892485\source\repos\math.lib\math.lib\bin\Debug\math.lib.exe.config
+C:\Users\892485\source\repos\math.lib\math.lib\bin\Debug\math.lib.exe
+C:\Users\892485\source\repos\math.lib\math.lib\bin\Debug\math.lib.pdb
+C:\Users\892485\source\repos\math.lib\math.lib\obj\Debug\math.lib.csproj.CoreCompileInputs.cache
+C:\Users\892485\source\repos\math.lib\math.lib\obj\Debug\math.lib.exe
+C:\Users\892485\source\repos\math.lib\math.lib\obj\Debug\math.lib.pdb
